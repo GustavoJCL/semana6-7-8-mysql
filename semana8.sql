@@ -1,3 +1,6 @@
+#Integrantes:
+#JHON WILLIAM MAMANI CONDORI 2020-119018
+#GUSTAVO JOAQUIN CALIZAYA LEON 2020-119035
 #semana8
 #1. Write a PL/SQL block that will display the name, dept no, salary of fist highest paid
 #employees.
