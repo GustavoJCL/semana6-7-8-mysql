@@ -1,3 +1,6 @@
+#Integrantes:
+#JHON WILLIAM MAMANI CONDORI 2020-119018
+#GUSTAVO JOAQUIN CALIZAYA LEON 2020-119035
 #semana6
 #ejercicio1
 #Create a row level trigger for the customers table that would fire for INSERT or UPDATE or
