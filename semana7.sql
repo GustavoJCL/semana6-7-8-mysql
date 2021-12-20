@@ -1,3 +1,6 @@
+#Integrantes:
+#JHON WILLIAM MAMANI CONDORI 2020-119018
+#GUSTAVO JOAQUIN CALIZAYA LEON 2020-119035
 CREATE DATABASE semana7;
 USE semana7;
 #1.Create the procedure for palindrome of given number.
